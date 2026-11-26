@@ -1,0 +1,7 @@
+[OK   ] grupo.json                 1 integrante(s), módulos ['M1', 'M2', 'M6'], integração sim
+[OK   ] testes                     39 testes executados, 0 falhas, 4 pulados
+[OK   ] resultados/                experimentos exigidos: X1, X2, X3, X4, X5, X6, X7, X11, X12, X13
+[OK   ] RELATORIO.md               10 seção(ões) de experimento
+[OK   ] dados sensíveis            nenhum padrão suspeito encontrado (a conferência final é do grupo)
+
+Resultado: 0 erro(s), 0 aviso(s). Entrega pronta.

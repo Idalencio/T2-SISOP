@@ -1,0 +1,11 @@
+{
+  "arquivos_protegidos_identicos": 30,
+  "csvs_reproduzidos_byte_a_byte": [
+    "es.csv",
+    "arquivos.csv",
+    "arquivos_por_operacao.csv",
+    "buffering.csv",
+    "experimentos.csv"
+  ],
+  "status": "ok"
+}

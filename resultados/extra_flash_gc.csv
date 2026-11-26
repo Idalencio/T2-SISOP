@@ -1,0 +1,3 @@
+experimento,padrao,semente,paginas_logicas,paginas_fisicas,reserva_efetiva_pct,paginas_gravadas_host,paginas_programadas,copias_gc,apagamentos,amplificacao_escrita,tempo_total_ms,paginas_logicas_preservadas
+EXTRA_FLASH_GC,sequencial,13,4096,4416,7.8125,20480,20480,0,252,1.0,4473.999999998325,4096
+EXTRA_FLASH_GC,aleatoria,13,4096,4416,7.8125,20480,129916,109436,1962,6.3435546875,31662.100000007187,4096

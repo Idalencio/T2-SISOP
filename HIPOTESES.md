@@ -20,4 +20,3 @@ ficam em RELATORIO.md. Fonte conceitual: Silberschatz, Galvin e Gagne, 9ª ediç
 Experimento suplementar planejado: usar flash de capacidade pequena, preencher a área
 lógica e sobrescrever páginas com semente fixa, para provocar coleta de lixo. Seus resultados
 serão separados dos CSVs oficiais e não substituirão X13.
-

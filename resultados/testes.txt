@@ -1,0 +1,44 @@
+test_coleta_preserva_mapa_e_cobra_copias (testes.test_complementares.TesteFlash.test_coleta_preserva_mapa_e_cobra_copias) ... ok
+test_custos_sem_coleta_e_limites (testes.test_complementares.TesteFlash.test_custos_sem_coleta_e_limites) ... ok
+test_encadeada_retrocesso_paga_ponteiros (testes.test_complementares.TesteFronteirasAlocacao.test_encadeada_retrocesso_paga_ponteiros) ... ok
+test_indice_transicao_1024_1025_e_liberacao (testes.test_complementares.TesteFronteirasAlocacao.test_indice_transicao_1024_1025_e_liberacao) ... ok
+test_sem_espaco_extensao_e_atomica (testes.test_complementares.TesteFronteirasAlocacao.test_sem_espaco_extensao_e_atomica) ... ok
+test_append_recalcula_fim_apos_seek_e_outra_abertura (testes.test_complementares.TesteFronteirasArquivos.test_append_recalcula_fim_apos_seek_e_outra_abertura) ... ok
+test_create_sem_espaco_nao_deixa_fcb_ou_entrada (testes.test_complementares.TesteFronteirasArquivos.test_create_sem_espaco_nao_deixa_fcb_ou_entrada) ... ok
+test_handle_duplicado_nao_vaza_contador (testes.test_complementares.TesteFronteirasArquivos.test_handle_duplicado_nao_vaza_contador) ... ok
+test_unlink_espera_ultimo_de_tres_handles (testes.test_complementares.TesteFronteirasArquivos.test_unlink_espera_ultimo_de_tres_handles) ... ok
+test_zero_bytes_e_eof_nao_movem_posicao_para_tras (testes.test_complementares.TesteFronteirasArquivos.test_zero_bytes_e_eof_nao_movem_posicao_para_tras) ... ok
+test_cache_preserva_sujo_em_reinsercao_e_sync_nao_muda_ordem (testes.test_complementares.TesteFronteirasES.test_cache_preserva_sujo_em_reinsercao_e_sync_nao_muda_ordem) ... ok
+test_empates_e_mesmo_cilindro (testes.test_complementares.TesteFronteirasES.test_empates_e_mesmo_cilindro) ... ok
+test_integracao_preserva_ordem_dentro_de_um_instante (testes.test_complementares.TesteFronteirasES.test_integracao_preserva_ordem_dentro_de_um_instante) ... ok
+test_realocacao (testes.test_fornecido.TesteAlocadorContiguo.test_realocacao) ... ok
+test_custo_aleatorio_e_sequencial (testes.test_fornecido.TesteDisco.test_custo_aleatorio_e_sequencial) ... ok
+test_exemplo_do_livro (testes.test_fornecido.TesteFCFS.test_exemplo_do_livro) ... ok
+test_historico (testes.test_modulos.TesteIntegracao.test_historico) ... ok
+test_lru_e_fifo (testes.test_modulos.TesteM1Cache.test_lru_e_fifo) ... ok
+test_politicas_de_escrita (testes.test_modulos.TesteM1Cache.test_politicas_de_escrita) ... ok
+test_deadline (testes.test_modulos.TesteM2Escalonadores.test_deadline) ... ok
+test_livro (testes.test_modulos.TesteM2Escalonadores.test_livro) ... ok
+test_buffering (testes.test_modulos.TesteM3DMAeBuffering.test_buffering) ... skipped 'não implementado: TODO (M3): simular o buffering'
+test_dma (testes.test_modulos.TesteM3DMAeBuffering.test_dma) ... skipped 'não implementado: TODO (M3): custo do DMA'
+test_links (testes.test_modulos.TesteM4Links.test_links) ... skipped 'não implementado: TODO (M4): link'
+test_permissoes_e_travas (testes.test_modulos.TesteM5Protecao.test_permissoes_e_travas) ... skipped 'não implementado: TODO (M5): usuario'
+test_custos_de_acesso (testes.test_modulos.TesteM6Alocacao.test_custos_de_acesso) ... ok
+test_interrupcao (testes.test_nucleo.TesteCPU.test_interrupcao) ... ok
+test_polling (testes.test_nucleo.TesteCPU.test_polling) ... ok
+test_scan_descendo_livro (testes.test_nucleo.TesteEscalonadores.test_scan_descendo_livro) ... ok
+test_scan_subindo (testes.test_nucleo.TesteEscalonadores.test_scan_subindo) ... ok
+test_sstf_livro (testes.test_nucleo.TesteEscalonadores.test_sstf_livro) ... ok
+test_custos_de_criacao (testes.test_nucleo.TesteSistemaArquivos.test_custos_de_criacao) ... ok
+test_erros (testes.test_nucleo.TesteSistemaArquivos.test_erros) ... ok
+test_escrita_extensao_e_close (testes.test_nucleo.TesteSistemaArquivos.test_escrita_extensao_e_close) ... ok
+test_leitura_sequencial (testes.test_nucleo.TesteSistemaArquivos.test_leitura_sequencial) ... ok
+test_modo_acrescimo (testes.test_nucleo.TesteSistemaArquivos.test_modo_acrescimo) ... ok
+test_resolver_e_open (testes.test_nucleo.TesteSistemaArquivos.test_resolver_e_open) ... ok
+test_tabelas_compartilhadas (testes.test_nucleo.TesteSistemaArquivos.test_tabelas_compartilhadas) ... ok
+test_unlink_com_arquivo_aberto (testes.test_nucleo.TesteSistemaArquivos.test_unlink_com_arquivo_aberto) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 0.031s
+
+OK (skipped=4)
